@@ -17,6 +17,21 @@ CardWorkout is an iOS fitness app that turns a deck of cards into a workout game
 The **card value** determines the number of reps (e.g., 7 of Hearts = 7 Push-Ups).
 
 
+## 🛠 Tech Stack
+
+| Component          | Details                                             |
+|--------------------|-----------------------------------------------------|
+| Language           | Swift 5.9+                                         |
+| UI Framework       | SwiftUI                                            |
+| Architecture       | MVVM (Model–View–ViewModel)                        |
+| State Management   | @State, @Binding, @ObservedObject for reactive UI  |
+| Randomization Logic| Deck of cards generates dynamic workout exercises  |
+| Deployment Target  | iOS 17+                                            |
+| IDE                | Xcode 15+                                          |
+| Version Control    | Git & GitHub                                       |
+
+
+
 # 🚀 Getting Started
 
 ### 📋 Prerequisites
