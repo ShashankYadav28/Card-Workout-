@@ -7,3 +7,12 @@ CardWorkout is an iOS fitness app that turns a deck of cards into a workout game
 - 🔄 Continuous shuffling for endless workouts  
 - 🖼️ Clean and minimal UI built with **SwiftUI**  
 - 🏋️ Fitness-oriented and beginner friendly  
+
+## 🃏 Card Rules
+- **Hearts ❤️** → Push-Ups  
+- **Clubs ♣️** → Sit-Ups  
+- **Diamonds ♦️** → Jumping Jacks  
+- **Spades ♠️** → Squats  
+
+The **card value** determines the number of reps (e.g., 7 of Hearts = 7 Push-Ups).  
+
