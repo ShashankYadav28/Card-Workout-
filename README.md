@@ -17,6 +17,8 @@ CardWorkout is an iOS fitness app that turns a deck of cards into a workout game
 The **card value** determines the number of reps (e.g., 7 of Hearts = 7 Push-Ups).
 
 
+
+
 ## 🛠 Tech Stack
 
 | Component          | Details                                             |
@@ -29,6 +31,7 @@ The **card value** determines the number of reps (e.g., 7 of Hearts = 7 Push-Ups
 | Deployment Target  | iOS 17+                                            |
 | IDE                | Xcode 15+                                          |
 | Version Control    | Git & GitHub                                       |
+
 
 
 
