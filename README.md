@@ -43,7 +43,7 @@ Before running the project, ensure you have:
 - 🛠️ **Xcode 15+** installed  
 - 🧑‍💻 **Swift 5.9+** toolchain  
 - 🔗 **Git** for version control  
-- 📱 An iOS Simulator or physical iPhone (iOS 17+)  
+- 📱 An iOS Simulator or physical iPhone (iOS 17+)
 
 ---
 
