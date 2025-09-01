@@ -41,7 +41,7 @@ The **card value** determines the number of reps (e.g., 7 of Hearts = 7 Push-Ups
 Before running the project, ensure you have:
 - 💻 **macOS Ventura (13+)** or later  
 - 🛠️ **Xcode 15+** installed  
-- 🧑‍💻 **Swift 5.9+** toolchain  
+- 🧑‍💻 **Swift 5.9+** toolchain 
 - 🔗 **Git** for version control  
 - 📱 An iOS Simulator or physical iPhone (iOS 17+)
 
