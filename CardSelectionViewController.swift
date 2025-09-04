@@ -7,7 +7,8 @@
 
 import UIKit
 
-class CardSelectionViewController: UIViewController {
+class CardSelectionViewController: UIViewController 
+{
     
     var timer:Timer!
     
