@@ -25,7 +25,8 @@ class CardSelectionViewController: UIViewController
     
     @IBOutlet var buttons: [UIButton]!
     
-    override func viewDidLoad() {
+    override func viewDidLoad() 
+    {
         super.viewDidLoad()
         startTimer()
         
