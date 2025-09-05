@@ -58,7 +58,6 @@ struct Deck
         UIImage.safe(named: "10D"),
         UIImage.safe(named: "KD"),
         UIImage.safe(named: "JD"),
-        UIImage.safe(named: "QD"),
         UIImage.safe(named: "AD"),
       
         UIImage.safe(named: "2S"),
