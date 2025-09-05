@@ -10,7 +10,8 @@ import UIKit
 
 // extension another method it is safer for the use
 
-extension UIImage {
+extension UIImage 
+{
     static func safe(named name: String) -> UIImage {
         return UIImage(named : name) ?? UIImage(systemName: "xmark.circle")!
     }
