@@ -77,8 +77,7 @@ struct Deck
         UIImage.safe(named: "KS"),
         UIImage.safe(named: "AS"),
       
-        
-    ]
+     ]
 }
 
 
