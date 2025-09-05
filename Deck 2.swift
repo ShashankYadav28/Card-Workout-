@@ -29,7 +29,6 @@ struct Deck
         UIImage.safe(named: "7C"),
         UIImage.safe(named: "8C"),
         UIImage.safe(named: "9C"),
-        UIImage.safe(named: "10C"),
         UIImage.safe(named: "QC"),
         UIImage.safe(named: "JC"),
         UIImage.safe(named: "KC"),
