@@ -17,7 +17,8 @@ extension UIImage
     }
 }
 
-struct Deck {
+struct Deck 
+{
     static var allValues = [
         
         UIImage.safe(named: "2C"),
