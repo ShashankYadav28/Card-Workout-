@@ -54,7 +54,6 @@ struct Deck
         UIImage.safe(named: "5D"),
         UIImage.safe(named: "6D"),
         UIImage.safe(named: "7D"),
-        UIImage.safe(named: "8D"),
         UIImage.safe(named: "9D"),
         UIImage.safe(named: "10D"),
         UIImage.safe(named: "KD"),
